@@ -10,6 +10,9 @@
 
 # production
 /build
+/platforms
+/plulgins
+/www
 
 # misc
 .DS_Store
